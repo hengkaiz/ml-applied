@@ -1,2 +1,2 @@
-# ds-job-change-pred
-Job change of data scientists
+# Applied Machine Learning
+1. Job change of data scientists
