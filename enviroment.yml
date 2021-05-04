@@ -1,0 +1,11 @@
+name: ml-applied
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - scikit-learn
+  - xgboost
+  - pandas
+  - missingno
+  - imbalanced-learn
+  - jupyter
