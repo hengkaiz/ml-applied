@@ -1,5 +1,5 @@
 # Predict which Data Scientists are likely to change jobs
-
+**View notebook [here](https://nbviewer.jupyter.org/github/hengkaiz/ml-applied/blob/main/ds-pred-job-change/predict_data_scientist_job_change.ipynb)**
 ## Overview
 - Dataset from [HR Analytics: Job Change of Data Scientists](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists)
 - Engineered features by filling in NaN values, encoding categorical data and oversampling of minority class.
